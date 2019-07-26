@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1521363382 source:f:\project\mobile banking system\main.cpp
+	<iostream>
+	"Bank.h"
+	"Person.h"
+	"Account_User.h"
+	"Account_Agent.h"
+	"Authority.h"
+	"Database.h"
+	"Message.h"
+	"Friend_functions.h"
+	"Operation_Functions.h"
+
+1521320230 source:f:\project\mobile banking system\src\bank.cpp
+	"Bank.h"
+
+1521361947 f:\project\mobile banking system\include\bank.h
+	<fstream>
+	<vector>
+	"Account_User.h"
+
+1521056321 source:f:\project\mobile banking system\src\person.cpp
+	"Person.h"
+
+1521060423 f:\project\mobile banking system\include\person.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1521359988 source:f:\project\mobile banking system\src\account_user.cpp
+	"Account_User.h"
+
+1521359988 f:\project\mobile banking system\include\account_user.h
+	"Person.h"
+	"Message.h"
+
+1521361947 source:f:\project\mobile banking system\src\account_agent.cpp
+	"Account_Agent.h"
+
+1521349249 f:\project\mobile banking system\include\account_agent.h
+	<Person.h>
+	"Bank.h"
+	"Account_User.h"
+	"Message.h"
+
+1521363124 source:f:\project\mobile banking system\src\authority.cpp
+	"Authority.h"
+
+1521363124 f:\project\mobile banking system\include\authority.h
+	<Person.h>
+
+1521363396 source:f:\project\mobile banking system\src\database.cpp
+	"Database.h"
+
+1521362879 f:\project\mobile banking system\include\database.h
+	<fstream>
+	<sstream>
+	<vector>
+	<map>
+	"Authority.h"
+	"Account_User.h"
+	"Account_Agent.h"
+
+1521361608 f:\project\mobile banking system\include\friend_functions.h
+
+1521362503 source:f:\project\mobile banking system\src\message.cpp
+	"Message.h"
+
+1521346531 f:\project\mobile banking system\include\message.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1521362503 f:\project\mobile banking system\include\operation_functions.h
+
